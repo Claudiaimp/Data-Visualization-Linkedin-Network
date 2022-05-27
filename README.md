@@ -15,7 +15,7 @@ The research question of the project was to understand whether the academic back
 **Steps taken**:
 1. Data collection and manipulation with Python and Excel in order to create a custom dataset;
 2. Data analysis of the authors and network visualization with Python and Gephi;
-3. Data analysis of the whole dataset of the 18 classmates with Python and Gephi;
+3. Data analysis and visualization of the whole dataset of the 18 classmates with Python and Gephi;
 4. Collection of insights and reporting;
 5. Final delivery.
 
